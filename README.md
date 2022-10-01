@@ -1,2 +1,2 @@
-# vitual-coordinator
+# virtual-coordinator
 A coordinator service 
